@@ -1,4 +1,4 @@
-
+Data Analytics | Python | Power Bi | MYSQL
 ¡Hola! 👋 Soy Jeison Stiven Zapata Pinzón
 ¿Quién soy? 🧑‍🔬
 Soy un científico de datos y matemático con experiencia en proyectos de data science y  resolución de problemas complejos utilizando diversas herramientas tecnológicas. Me apasiona el análisis cuantitativo, la inteligencia artificial y el aprendizaje automático. Mi principal objetivo es transformar datos en información valiosa para la toma de decisiones estratégicas.
