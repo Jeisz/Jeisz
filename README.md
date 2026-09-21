@@ -1,319 +1,442 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1F2937,100:10B981&height=240&section=header&text=Jeison%20Stiven%20Zapata&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:10B981&height=240&section=header&text=Jeison%20Stiven%20Zapata&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-<h3>Data Scientist | Mathematics Graduate | Artificial Intelligence</h3>
+<h2>
+Data Scientist | Mathematics Graduate | Artificial Intelligence
+</h2>
 
 <p>
-Building intelligent systems through Machine Learning, Data Analytics and LLM technologies.
+Building data-driven solutions from engineering pipelines to intelligent AI systems.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Data+Analytics+%7C+Artificial+Intelligence;Transforming+data+into+intelligent+solutions;Exploring+LLMs%2C+Predictive+Models+and+Industrial+AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Machine+Learning+%7C+Artificial+Intelligence;From+Data+Engineering+to+AI+Solutions;Exploring+LLMs%2C+Predictive+Models+and+Industrial+AI"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-10B981?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/LOCATION-COLOMBIA-1F2937?style=for-the-badge">
-<img src="https://img.shields.io/badge/FOCUS-DATA%20SCIENCE-111827?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/FOCUS-DATA%20%7C%20AI-111827?style=for-the-badge">
 
 </div>
+
 
 ---
 
 <table>
 <tr>
+
 <td width="100%">
 
 ## stack-manifest.json
 
 ```json
 {
-  "profile": "Jeison Stiven Zapata",
+  "name": "Jeison Stiven Zapata",
   "role": "Data Scientist",
   "background": "Mathematics Graduate",
-  "status": "Open to Opportunities",
-  "specialties": [
-    "Machine Learning",
+
+  "expertise": [
+    "Data Engineering",
     "Data Analytics",
+    "Machine Learning",
     "Artificial Intelligence",
-    "LLM Applications",
-    "Predictive Models"
+    "LLM Applications"
   ],
-  "target": "Build intelligent systems from data"
+
+  "mission": 
+  "Transform raw data into intelligent solutions"
 }
 ```
 
 </td>
+
 </tr>
 </table>
+
 
 ---
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
+
 ## /identity
 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeisz/Jeisz/be3298357a49a0885dcf71d61fd841678df190ee/img.png" width="180">
+
+<img src="https://raw.githubusercontent.com/Jeisz/Jeisz/be3298357a49a0885dcf71d61fd841678df190ee/img.png" width="180">
+
 </div>
 
-<br>
 
 ```yaml
 name: Jeison Stiven Zapata
+
 role: Data Scientist
-background: Mathematics Graduate
-focus:
-  - Artificial Intelligence
+
+background:
+  - Mathematics Graduate
+
+specialties:
+  - Data Engineering
   - Machine Learning
-  - Data Analytics
+  - Artificial Intelligence
   - LLM Applications
 ```
 
-Soy científico de datos y licenciado en matemáticas, apasionado por transformar datos complejos en soluciones inteligentes.
 
-Mi enfoque combina pensamiento matemático, análisis estadístico y tecnologías modernas de inteligencia artificial para construir soluciones útiles y escalables.
+Soy científico de datos y licenciado en matemáticas apasionado por transformar datos complejos en soluciones inteligentes.
+
+Mi enfoque combina fundamentos matemáticos, análisis estadístico y tecnologías modernas para construir sistemas basados en datos.
+
 
 ### Research Interests
 
 - Statistical Modeling
+- Data Engineering
 - Machine Learning
 - Predictive Analytics
 - Artificial Intelligence
 - Large Language Models
 
+
 </td>
+
 
 <td width="50%" valign="top">
 
+
 ## /technical_vision
 
+
 ```text
-DATA
- ├── Understand
- ├── Analyze
- ├── Model
- ├── Predict
- ├── Automate
- └── Build AI Solutions
+DATA LIFECYCLE
+
+
+        ↓
+
+COLLECT
+
+
+        ↓
+
+TRANSFORM
+
+
+        ↓
+
+ANALYZE
+
+
+        ↓
+
+MODEL
+
+
+        ↓
+
+PREDICT
+
+
+        ↓
+
+AUTOMATE
+
+
+        ↓
+
+AI SOLUTIONS
 ```
 
-Mi objetivo es desarrollar sistemas inteligentes capaces de convertir datos en conocimiento útil, optimizar procesos y apoyar la toma de decisiones.
+
+Mi objetivo es desarrollar soluciones completas que conecten la ingeniería de datos con modelos inteligentes capaces de generar valor.
+
 
 ### Current Focus
 
-- Applied Machine Learning
-- Industrial AI
+- ETL Pipelines
+- Machine Learning Models
 - Predictive Maintenance
 - LLM Workflows
 - MLOps Foundations
 
+
 ### Mission Output
+
 
 ```bash
 $ build_intelligent_systems()
 
-✓ transform_data_to_decisions()
-✓ design_predictive_models()
+
+✓ transform_raw_data()
+
+✓ create_predictive_models()
+
+✓ deploy_AI_solutions()
+
 ✓ keep_learning()
+
 ```
+
 
 </td>
 
 </tr>
+
 </table>
+
 
 ---
 
-## Tech Stack
+# ⚙️ TECH STACK
 
-<table>
-<tr>
-<td width="100%">
-
-```bash
-sys@core:~$ render --profile=production --target=readme.md
-
-[OK] stack loaded
-[OK] profile compiled
-[OK] modules ready
-```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,git,github,vscode&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,git,github,vscode&theme=dark">
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Python-Data%20Science-111111?style=for-the-badge&logo=python&logoColor=10B981">
+
+<img src="https://img.shields.io/badge/SQL-Database-111111?style=for-the-badge&logo=postgresql&logoColor=10B981">
+
+<img src="https://img.shields.io/badge/Pandas-Analytics-111111?style=for-the-badge&logo=pandas&logoColor=10B981">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-111111?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/LangChain-LLM%20Applications-111111?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Docker-MLOps-111111?style=for-the-badge&logo=docker">
+
 
 </div>
 
-<br>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Python
-Data Science, automation, analytics and modeling
-
-![Python](https://img.shields.io/badge/Level-Advanced-10B981?style=for-the-badge&logo=python&logoColor=white)
-
-</td>
-
-<td width="33%" valign="top">
-
-### SQL
-Querying, relational databases and data extraction
-
-![SQL](https://img.shields.io/badge/Level-Advanced-111827?style=for-the-badge&logo=postgresql&logoColor=10B981)
-
-</td>
-
-<td width="33%" valign="top">
-
-### Machine Learning
-Predictive modeling and intelligent solutions
-
-![ML](https://img.shields.io/badge/Focus-Core-1F2937?style=for-the-badge)
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-### Pandas / NumPy
-Data manipulation and scientific computing
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</td>
-
-<td width="33%" valign="top">
-
-### LangChain / LLM
-AI workflows and intelligent assistants
-
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Applications-10B981?style=for-the-badge)
-
-</td>
-
-<td width="33%" valign="top">
-
-### Docker / Deployment
-Environment portability and foundations for MLOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
+
 
 <table>
+
 <tr>
+
 <td width="100%">
 
-### Industrial AI Predictive Maintenance
 
-Machine Learning + LLM system for early anomaly detection in industrial equipment using sensor data.
+## 🔄 ETL-P | Data Engineering Pipeline
+
+
+Proyecto enfocado en la construcción de un flujo ETL para extracción, transformación y carga de datos, preparando información para procesos analíticos.
+
+
+### Architecture
+
+
+```text
+DATA SOURCES
+
+      ↓
+
+EXTRACT
+
+      ↓
+
+TRANSFORM
+
+      ↓
+
+LOAD
+
+      ↓
+
+ANALYTICS READY DATA
+
+      ↓
+
+BUSINESS INSIGHTS
+```
+
+
+### Focus
+
+- Data Engineering
+- ETL Processes
+- Data Transformation
+- Database Management
+- Data Preparation
+
+
+### Technologies
+
+Python • SQL • Pandas • Databases • Data Analytics
+
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="100%">
+
+
+## ⚙️ Industrial AI Predictive Maintenance
+
+
+Sistema basado en Machine Learning + LLM para detección temprana de anomalías en equipos industriales mediante datos provenientes de sensores.
+
+
+### Architecture
+
 
 ```text
 Industrial Sensors
+
         ↓
+
 Exploratory Data Analysis
+
         ↓
+
 Feature Engineering
+
         ↓
+
 Machine Learning Model
+
         ↓
+
+Anomaly Detection
+
+        ↓
+
 AI Diagnostic Assistant
 ```
 
-**Tech used:** Python, Pandas, Scikit-Learn, LangChain, Streamlit
+
+### Focus
+
+- Sensor Data Analytics
+- Predictive Maintenance
+- Fault Detection
+- Machine Learning
+- LLM Integration
+
+
+### Technologies
+
+Python • Pandas • Scikit-Learn • LangChain • Streamlit
+
 
 </td>
+
 </tr>
+
 
 <tr>
+
 <td width="100%">
 
-### Data Analytics Solutions
 
-Development of exploratory analysis, predictive modeling and decision-support workflows using Python, SQL and BI tools.
+## 📊 Data Analytics Solutions
 
-**Focus:** analytics, modeling, automation and business insights.
+
+Desarrollo de análisis exploratorio, visualización y modelos estadísticos para convertir datos en información útil.
+
+
+### Focus
+
+- Exploratory Data Analysis
+- Statistical Analysis
+- Data Visualization
+- Decision Support
+
 
 </td>
+
 </tr>
+
+
 </table>
 
----
-
-## Runtime Overview
-
-<div align="center">
-
-| Module | Status | Description |
-|---|---|---|
-| Data Analytics | Active | Exploratory analysis and transformation |
-| Machine Learning | Active | Predictive model building |
-| LLM Applications | Active | Intelligent assistant workflows |
-| Industrial AI | In Progress | Applied predictive maintenance |
-| MLOps | Learning | Deployment and scalability foundations |
-
-</div>
 
 ---
 
-## GitHub Metrics
+# 🧠 Currently Exploring
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeisz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=FFFFFF"/>
+| Area | Focus |
+|---|---|
+| Data Engineering | ETL pipelines and data workflows |
+| Machine Learning | Predictive models |
+| LLM | Intelligent assistants |
+| Industrial AI | Predictive maintenance |
+| MLOps | Deployment foundations |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeisz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jeisz&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981"/>
-
-</div>
 
 ---
 
-## Connect
+# 📈 GitHub Metrics
+
 
 <div align="center">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeisz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=FFFFFF">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeisz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=FFFFFF">
+
+
+</div>
+
+
+---
+
+# 📫 Connect
+
+
+<div align="center">
+
 
 <a href="https://github.com/Jeisz">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-111111?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-Portfolio-111111?style=for-the-badge&logo=github">
+
 </a>
+
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin">
+
 </a>
 
+
 </div>
+
 
 ---
 
 <div align="center">
+
 
 ```text
 > Turning mathematical thinking into intelligent systems.
 ```
+
 
 </div>
