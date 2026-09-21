@@ -1,18 +1,157 @@
-Data Analytics | Python | Power Bi | MYSQL
-¡Hola! 👋 Soy Jeison Stiven Zapata Pinzón
-¿Quién soy? 🧑‍🔬
-Soy un científico de datos y matemático con experiencia en proyectos de data science y  resolución de problemas complejos utilizando diversas herramientas tecnológicas. Me apasiona el análisis cuantitativo, la inteligencia artificial y el aprendizaje automático. Mi principal objetivo es transformar datos en información valiosa para la toma de decisiones estratégicas.
+<div align="center">
 
-¿Qué hago? 🚀
-Actualmente me dedico a analizar, procesar y modelar grandes cantidades de datos para ayudar a las empresas a obtener insights que mejoren su rendimiento y eficiencia. Trabajo principalmente con Python, y manejo herramientas avanzadas de procesamiento de datos como Spark y bases de datos SQL. Además, tengo experiencia en el desarrollo de soluciones personalizadas, desde el frontend con HTML y CSS, hasta la creación de pipelines de datos complejos.
+<img src="./industrial_ai_banner.png" width="100%">
 
-¿Hacia dónde me dirijo? 🎯
-Mi objetivo es seguir profundizando en el mundo del análisis de datos y la inteligencia artificial, aplicando técnicas avanzadas de machine learning y deep learning en diferentes sectores. También estoy interesado en seguir aprendiendo sobre DevOps y el uso de tecnologías como Docker para mejorar la automatización y escalabilidad de los proyectos.
+<h1>
+Jeison Stiven Zapata Pinzón
+</h1>
 
-Tecnologías que uso 💻
-Lenguajes principales: Python, SQL
-Herramientas de análisis: Spark, Pandas, NumPy
-Desarrollo web: HTML, CSS
-Contenedores y DevOps: Docker
-Bases de datos: MySQL, PostgreSQL
+<h3>
+Data Scientist | Mathematics Graduate | Artificial Intelligence & Machine Learning
+</h3>
 
+<p>
+Transformando datos en soluciones inteligentes mediante análisis estadístico,
+modelos predictivos e inteligencia artificial.
+</p>
+
+</div>
+
+<br>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h2>👨‍💻 Sobre mí</h2>
+
+<p>
+Soy científico de datos y licenciado en matemáticas, apasionado por la inteligencia artificial,
+el aprendizaje automático y el análisis avanzado de datos.
+</p>
+
+<p>
+Mi enfoque está orientado a construir soluciones basadas en datos que permitan descubrir
+patrones, generar conocimiento y apoyar la toma de decisiones.
+</p>
+
+</td>
+
+<td width="50%">
+
+<h2>🎯 Áreas de interés</h2>
+
+<ul>
+<li>Machine Learning</li>
+<li>Deep Learning</li>
+<li>Large Language Models (LLM)</li>
+<li>Data Analytics</li>
+<li>Predictive Maintenance</li>
+<li>Automatización de procesos</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+
+---
+
+<h2 align="center">🛠️ Tecnologías</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/DeepSeek-AI-4B8BBE?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+</div>
+
+
+---
+
+<h2 align="center">🚀 Proyectos destacados</h2>
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3>⚙️ Industrial AI Predictive Maintenance</h3>
+
+<p>
+Sistema basado en Machine Learning y LLM para detección temprana de anomalías
+en equipos industriales utilizando datos provenientes de sensores.
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3>📊 Data Analytics Projects</h3>
+
+<p>
+Análisis exploratorio, construcción de modelos predictivos,
+visualización de datos y automatización de procesos analíticos.
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+<h2 align="center">📚 Formación</h2>
+
+<div align="center">
+
+<p>
+🎓 Licenciado en Matemáticas
+</p>
+
+<p>
+📊 Científico de Datos
+</p>
+
+</div>
+
+
+---
+
+<h2 align="center">📫 Contacto</h2>
+
+<div align="center">
+
+<a href="https://github.com">
+GitHub
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://linkedin.com">
+LinkedIn
+</a>
+
+</div>
