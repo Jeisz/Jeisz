@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:374151,100:10B981&height=220&section=header&text=Jeison%20Stiven%20Zapata&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-<h2>
-Data Scientist | Mathematics Graduate | Artificial Intelligence
-</h2>
+<h2>Data Scientist | Mathematics Graduate | Artificial Intelligence</h2>
 
 <p>
 Building intelligent systems through Machine Learning, Data Analytics and LLM technologies.
@@ -15,11 +13,9 @@ Building intelligent systems through Machine Learning, Data Analytics and LLM te
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-10B981?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/LOCATION-COLOMBIA-374151?style=for-the-badge">
 
 </div>
-
 
 ---
 
@@ -28,9 +24,13 @@ Building intelligent systems through Machine Learning, Data Analytics and LLM te
 
 <td width="50%" valign="top">
 
+<h2>/identity</h2>
 
-## /identity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jeisz/Jeisz/be3298357a49a0885dcf71d61fd841678df190ee/img.png" width="170">
+</div>
 
+<br>
 
 ```yaml
 name: Jeison Stiven Zapata
@@ -43,14 +43,11 @@ focus:
   - LLM Applications
 ```
 
-
-Soy científico de datos y licenciado en matemáticas apasionado por transformar datos complejos en soluciones inteligentes.
+Soy científico de datos y licenciado en matemáticas, apasionado por transformar datos complejos en soluciones inteligentes.
 
 Mi enfoque combina fundamentos matemáticos, análisis estadístico y tecnologías modernas de inteligencia artificial.
 
-
-### Research Interests
-
+<h3>Research Interests</h3>
 
 - Statistical Modeling
 - Machine Learning
@@ -58,30 +55,22 @@ Mi enfoque combina fundamentos matemáticos, análisis estadístico y tecnologí
 - Artificial Intelligence
 - Large Language Models
 
-
 <div>
 
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=10B981">
-
 <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=10B981">
-
 <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=10B981">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square">
-
-<img src="https://img.shields.io/badge/LangChain-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikitlearn&logoColor=10B981">
+<img src="https://img.shields.io/badge/LangChain-111111?style=flat-square&logoColor=10B981">
+<img src="https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi&logoColor=10B981">
 
 </div>
 
-
 </td>
-
 
 <td width="50%" valign="top">
 
-
-## /technical_vision
-
+<h2>/technical_vision</h2>
 
 ```text
 DATA PIPELINE
@@ -111,12 +100,9 @@ AUTOMATE
 AI SOLUTIONS
 ```
 
-
 Mi objetivo es desarrollar sistemas inteligentes capaces de convertir datos en conocimiento y apoyar procesos de decisión.
 
-
-### Current Focus
-
+<h3>Current Focus</h3>
 
 - Applied Machine Learning
 - Predictive Maintenance
@@ -124,9 +110,7 @@ Mi objetivo es desarrollar sistemas inteligentes capaces de convertir datos en c
 - Industrial AI
 - MLOps Foundations
 
-
-### Mission Output
-
+<h3>Mission Output</h3>
 
 ```bash
 $ build_intelligent_systems()
@@ -136,115 +120,73 @@ $ build_intelligent_systems()
 ✓ keep_learning()
 ```
 
-
 </td>
 
 </tr>
 </table>
 
-
 ---
 
-
-<h2 align="center">
-⚙️ TECH STACK
-</h2>
-
+<h2 align="center">⚙️ TECH STACK</h2>
 
 <div align="center">
 
-
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,git,github,vscode&theme=dark">
-
 
 <br><br>
 
-
 <img src="https://img.shields.io/badge/Python-Data%20Science-111111?style=for-the-badge&logo=python&logoColor=10B981">
-
 <img src="https://img.shields.io/badge/Machine%20Learning-Models-111111?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/Power%20BI-Analytics-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Docker-MLOps-111111?style=for-the-badge&logo=docker">
-
+<img src="https://img.shields.io/badge/Docker-MLOps-111111?style=for-the-badge&logo=docker&logoColor=10B981">
+<img src="https://img.shields.io/badge/SQL-Databases-111111?style=for-the-badge&logo=postgresql&logoColor=10B981">
+<img src="https://img.shields.io/badge/LangChain-LLM%20Apps-111111?style=for-the-badge">
 
 </div>
 
-
 ---
 
-
-<h2>
-🚀 Featured Projects
-</h2>
-
+<h2>🚀 Featured Projects</h2>
 
 <table>
 
 <tr>
-
 <td>
 
-
-## ⚙️ Industrial AI Predictive Maintenance
-
+<h3>⚙️ Industrial AI Predictive Maintenance</h3>
 
 Sistema basado en Machine Learning + LLM para detección temprana de anomalías en equipos industriales mediante datos provenientes de sensores.
 
-
 ```text
 Industrial Sensors
-
-       ↓
-
+        ↓
 Exploratory Data Analysis
-
-       ↓
-
+        ↓
 Feature Engineering
-
-       ↓
-
+        ↓
 Machine Learning Model
-
-       ↓
-
+        ↓
 AI Diagnostic Assistant
 ```
 
-
 </td>
-
 </tr>
-
 
 <tr>
-
 <td>
 
+<h3>📊 Data Analytics Solutions</h3>
 
-## 📊 Data Analytics Solutions
-
-
-Desarrollo de procesos de análisis exploratorio, modelamiento predictivo y visualización para transformar datos en información útil.
-
+Desarrollo de procesos de análisis exploratorio, modelamiento predictivo y visualización para transformar datos en información útil y apoyar la toma de decisiones.
 
 </td>
-
 </tr>
-
 
 </table>
 
-
 ---
 
-
-<h2>
-🧠 Currently Exploring
-</h2>
-
+<h2>🧠 Currently Exploring</h2>
 
 | Area | Focus |
 |---|---|
@@ -254,16 +196,28 @@ Desarrollo de procesos de análisis exploratorio, modelamiento predictivo y visu
 | Industrial AI | Predictive Maintenance |
 | MLOps | Deployment |
 
-
 ---
 
+<h2 align="center">📫 Connect</h2>
 
 <div align="center">
 
+<a href="https://github.com/Jeisz">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ```text
 > Turning mathematical thinking into intelligent systems.
 ```
-
 
 </div>
